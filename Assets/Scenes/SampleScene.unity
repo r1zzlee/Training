@@ -520,14 +520,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 956319797226139244, guid: 9c74a63eb48a95446986c2cc2a8cd5de, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.001
-      objectReference: {fileID: 0}
-    - target: {fileID: 3355191599941755809, guid: 9c74a63eb48a95446986c2cc2a8cd5de, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.001
-      objectReference: {fileID: 0}
     - target: {fileID: 4062811396147055785, guid: 9c74a63eb48a95446986c2cc2a8cd5de, type: 3}
       propertyPath: m_Name
       value: Crossroads
